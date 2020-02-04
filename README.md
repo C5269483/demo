@@ -1,1 +1,1 @@
-# GIT E2E Scenario - China T12b
+# GIT E2E Scenario - China 0402
