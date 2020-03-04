@@ -1,1 +1,1 @@
-# GIT E2E Scenario - Canary T01b
+# GIT E2E Scenario - China T02a
