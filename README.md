@@ -1,1 +1,1 @@
-# GIT E2E Scenario - China T02a
+# GIT E2E Scenario - AWS T02b
