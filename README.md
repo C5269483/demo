@@ -1,1 +1,1 @@
-# GIT E2E Scenario - AWS T02b
+# GIT E2E Scenario - Canary T02b
