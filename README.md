@@ -1,1 +1,1 @@
-# GIT E2E Scenario
+# GIT E2E Scenario-Automation
